@@ -2,7 +2,7 @@
   "name": "insurance-catalog",
   "version": "1.0.0",
   "description": "A Node.js app for interacting with insurance policies in a Cloudant DB.",
-  "private": false,
+  "private": true,
   "keywords": [
     "bluemix",
     "microservices",

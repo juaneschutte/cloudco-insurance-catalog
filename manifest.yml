@@ -1,7 +1,7 @@
 ---
 applications:
 - name: insurance-catalog
-  host: insurance-catalog
+  host: tenant-catalog
   memory: 128M
   services:
   - insurance-policy-db
